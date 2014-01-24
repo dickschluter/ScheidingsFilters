@@ -1,0 +1,14 @@
+C:\Users\Dick\AppData\Local\Temporary Projects\ScheidingsFilters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dick\AppData\Local\Temporary Projects\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.Properties.Resources.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\ScheidingsFilters\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dick\AppData\Local\Temporary Projects\ScheidingsFilters\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dick\AppData\Local\Temporary Projects\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.Properties.Resources.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\bin\Debug\ScheidingsFilters.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\bin\Debug\ScheidingsFilters.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Debug\ScheidingsFilters.pdb

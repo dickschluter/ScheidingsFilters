@@ -1,0 +1,9 @@
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\bin\Release\ScheidingsFilters.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\bin\Release\ScheidingsFilters.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\ScheidingsFilters.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\ScheidingsFilters.Properties.Resources.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\ScheidingsFilters.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\ScheidingsFilters\ScheidingsFilters\obj\x86\Release\ScheidingsFilters.pdb
